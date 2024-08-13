@@ -1,0 +1,490 @@
+[
+
+  {
+    "student_id": 1,
+    "name": "Alice Johnsonn",
+    "age": 20,
+    "gender": "Female",
+    "grade": "A",
+    "courses": [
+      "Mathematics",
+      "Physics",
+      "Computer Science"
+    ],
+    "address": {
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    }
+  },
+  {
+    "student_id": 2,
+    "name": "Bob Smith hero",
+    "age": 22,
+    "gender": "Male",
+    "grade": "B",
+    "courses": [
+      "History",
+      "Literature",
+      "Philosophy"
+    ],
+    "address": {
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90001"
+    }
+  },
+  {
+    "student_id": 3,
+    "name": "Charlie Brown",
+    "age": 21,
+    "gender": "Male",
+    "grade": "C",
+    "courses": [
+      "Biology",
+      "Chemistry",
+      "Mathematics"
+    ],
+    "address": {
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60601"
+    }
+  },
+  {
+    "student_id": 4,
+    "name": "Daisy Miller",
+    "age": 23,
+    "gender": "Female",
+    "grade": "B",
+    "courses": [
+      "Physics",
+      "Computer Science"
+    ],
+    "address": {
+      "city": "Houston",
+      "state": "TX",
+      "zip": "77001"
+    }
+  },
+  {
+    "student_id": 5,
+    "name": "Ethan Davis",
+    "age": 20,
+    "gender": "Male",
+    "grade": "A",
+    "courses": [
+      "Mathematics",
+      "Engineering",
+      "Computer Science"
+    ],
+    "address": {
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85001"
+    }
+  },
+  {
+    "student_id": 6,
+    "name": "Fiona White",
+    "age": 22,
+    "gender": "Female",
+    "grade": "C",
+    "courses": [
+      "History",
+      "Literature"
+    ],
+    "address": {
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip": "19019"
+    }
+  },
+  {
+    "student_id": 7,
+    "name": "George Harris",
+    "age": 21,
+    "gender": "Male",
+    "grade": "B",
+    "courses": [
+      "Biology",
+      "Chemistry",
+      "Physics"
+    ],
+    "address": {
+      "city": "San Antonio",
+      "state": "TX",
+      "zip": "78201"
+    }
+  },
+  {
+    "student_id": 8,
+    "name": "Hannah Clark",
+    "age": 23,
+    "gender": "Female",
+    "grade": "A",
+    "courses": [
+      "Philosophy",
+      "Literature"
+    ],
+    "address": {
+      "city": "San Diego",
+      "state": "CA",
+      "zip": "92101"
+    }
+  },
+  {
+    "student_id": 9,
+    "name": "Ian Lewis",
+    "age": 20,
+    "gender": "Male",
+    "grade": "C",
+    "courses": [
+      "Mathematics",
+      "Physics",
+      "Computer Science"
+    ],
+    "address": {
+      "city": "Dallas",
+      "state": "TX",
+      "zip": "75201"
+    }
+  },
+  {
+    "student_id": 10,
+    "name": "Jasmine Walker",
+    "age": 22,
+    "gender": "Female",
+    "grade": "B",
+    "courses": [
+      "Biology",
+      "Chemistry"
+    ],
+    "address": {
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95101"
+    }
+  },
+  {
+    "student_id": 11,
+    "name": "Kevin Young",
+    "age": 21,
+    "gender": "Male",
+    "grade": "A",
+    "courses": [
+      "History",
+      "Philosophy"
+    ],
+    "address": {
+      "city": "Austin",
+      "state": "TX",
+      "zip": "73301"
+    }
+  },
+  {
+    "student_id": 12,
+    "name": "Laura King",
+    "age": 23,
+    "gender": "Female",
+    "grade": "C",
+    "courses": [
+      "Literature",
+      "Philosophy"
+    ],
+    "address": {
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip": "32099"
+    }
+  },
+  {
+    "student_id": 13,
+    "name": "Michael Scott",
+    "age": 20,
+    "gender": "Male",
+    "grade": "B",
+    "courses": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "address": {
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip": "76101"
+    }
+  },
+  {
+    "student_id": 14,
+    "name": "Natalie Adams",
+    "age": 22,
+    "gender": "Female",
+    "grade": "A",
+    "courses": [
+      "Mathematics",
+      "Biology"
+    ],
+    "address": {
+      "city": "Columbus",
+      "state": "OH",
+      "zip": "43085"
+    }
+  },
+  {
+    "student_id": 15,
+    "name": "Owen Baker",
+    "age": 21,
+    "gender": "Male",
+    "grade": "C",
+    "courses": [
+      "Physics",
+      "Chemistry"
+    ],
+    "address": {
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94101"
+    }
+  },
+  {
+    "student_id": 16,
+    "name": "Penelope Rogers",
+    "age": 23,
+    "gender": "Female",
+    "grade": "B",
+    "courses": [
+      "History",
+      "Philosophy",
+      "Literature"
+    ],
+    "address": {
+      "city": "Charlotte",
+      "state": "NC",
+      "zip": "28201"
+    }
+  },
+  {
+    "student_id": 17,
+    "name": "Quinn Sanchez",
+    "age": 20,
+    "gender": "Male",
+    "grade": "A",
+    "courses": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "address": {
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip": "46201"
+    }
+  },
+  {
+    "student_id": 18,
+    "name": "Rachel Wright",
+    "age": 22,
+    "gender": "Female",
+    "grade": "C",
+    "courses": [
+      "Biology",
+      "Chemistry"
+    ],
+    "address": {
+      "city": "Seattle",
+      "state": "WA",
+      "zip": "98101"
+    }
+  },
+  {
+    "student_id": 19,
+    "name": "Samuel Turner",
+    "age": 21,
+    "gender": "Male",
+    "grade": "B",
+    "courses": [
+      "Physics",
+      "Mathematics"
+    ],
+    "address": {
+      "city": "Denver",
+      "state": "CO",
+      "zip": "80201"
+    }
+  },
+  {
+    "student_id": 20,
+    "name": "Tara Perez",
+    "age": 23,
+    "gender": "Female",
+    "grade": "A",
+    "courses": [
+      "History",
+      "Literature"
+    ],
+    "address": {
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20001"
+    }
+  },
+  {
+    "student_id": 21,
+    "name": "Ulysses Campbell",
+    "age": 20,
+    "gender": "Male",
+    "grade": "C",
+    "courses": [
+      "Philosophy",
+      "Computer Science"
+    ],
+    "address": {
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02101"
+    }
+  },
+  {
+    "student_id": 22,
+    "name": "Victoria Edwards",
+    "age": 22,
+    "gender": "Female",
+    "grade": "B",
+    "courses": [
+      "Engineering",
+      "Physics"
+    ],
+    "address": {
+      "city": "El Paso",
+      "state": "TX",
+      "zip": "79901"
+    }
+  },
+  {
+    "student_id": 23,
+    "name": "William Martinez",
+    "age": 21,
+    "gender": "Male",
+    "grade": "A",
+    "courses": [
+      "Mathematics",
+      "Computer Science"
+    ],
+    "address": {
+      "city": "Nashville",
+      "state": "TN",
+      "zip": "37201"
+    }
+  },
+  {
+    "student_id": 24,
+    "name": "Xavier Cooper",
+    "age": 23,
+    "gender": "Male",
+    "grade": "C",
+    "courses": [
+      "Biology",
+      "Chemistry"
+    ],
+    "address": {
+      "city": "Detroit",
+      "state": "MI",
+      "zip": "48201"
+    }
+  },
+  {
+    "student_id": 25,
+    "name": "Yasmine Flores",
+    "age": 20,
+    "gender": "Female",
+    "grade": "B",
+    "courses": [
+      "Literature",
+      "Philosophy"
+    ],
+    "address": {
+      "city": "Memphis",
+      "state": "TN",
+      "zip": "38101"
+    }
+  },
+  {
+    "student_id": 26,
+    "name": "Zachary Allen",
+    "age": 22,
+    "gender": "Male",
+    "grade": "A",
+    "courses": [
+      "Engineering",
+      "Computer Science"
+    ],
+    "address": {
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40201"
+    }
+  },
+  {
+    "student_id": 27,
+    "name": "Ava Nelson",
+    "age": 21,
+    "gender": "Female",
+    "grade": "C",
+    "courses": [
+      "History",
+      "Biology"
+    ],
+    "address": {
+      "city": "Baltimore",
+      "state": "MD",
+      "zip": "21201"
+    }
+  },
+  {
+    "student_id": 28,
+    "name": "Ben Griffin",
+    "age": 23,
+    "gender": "Male",
+    "grade": "B",
+    "courses": [
+      "Philosophy",
+      "Literature"
+    ],
+    "address": {
+      "city": "Milwaukee",
+      "state": "WI",
+      "zip": "53201"
+    }
+  },
+  {
+    "student_id": 29,
+    "name": "Claire Morris",
+    "age": 20,
+    "gender": "Female",
+    "grade": "A",
+    "courses": [
+      "Physics",
+      "Mathematics"
+    ],
+    "address": {
+      "city": "Albuquerque",
+      "state": "NM",
+      "zip": "87101"
+    }
+  },
+  {
+    "student_id": 30,
+    "name": "David Reed",
+    "age": 22,
+    "gender": "Male",
+    "grade": "C",
+    "courses": [
+      "Computer Science",
+      "Engineering"
+    ],
+    "address": {
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85701"
+    }
+  }
+]
